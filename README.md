@@ -5,9 +5,9 @@ This project was a part of my Bachelor’s thesis focused on creating a hybrid m
 
 
 ## About
-
-* Generate the features from your EEG dataset using the MATLAB code and save it into a .dat file.
-* Runtthe tool using main_tool.py file in classifier_tool.
+* **This repository is a subset of another private reposity.** 
+* Generate the features from your EEG dataset using the MATLAB code and save it into a .mat file.
+* Runt the tool using main_tool.py file in classifier_tool.
 
 
 ## Features
