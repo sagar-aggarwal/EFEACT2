@@ -1,0 +1,3 @@
+Model,BestScore,BestParameters
+XGB,0.8572280701754386,{'max_depth': 7}
+LGB,0.8439649122807017,{'max_depth': 8}
